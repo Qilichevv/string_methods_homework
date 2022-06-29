@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     
-    return s.uppercase()
+    return s.upper()

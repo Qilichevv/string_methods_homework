@@ -7,4 +7,4 @@ def main(s):
         bool: answer
     """
     
-    return s.lowercase()
+    return s.lower()
